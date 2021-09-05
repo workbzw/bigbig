@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item_1"
+        android:icon="@drawable/app_kiki_ic_home_hip"
+        android:title="@string/app_kiki_main_bottom_btn_home" />
+    <item
+        android:id="@+id/nav_item_2"
+        android:icon="@drawable/app_kiki_ic_home_account"
+        android:title="@string/app_kiki_main_bottom_btn_account" />
+</menu>

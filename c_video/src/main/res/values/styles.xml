@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="c_video_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/c_video_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/c_video_colorPrimaryDark</item>
+        <item name="colorAccent">@color/c_video_colorAccent</item>
+    </style>
+    <style name="c_video_FloatWindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/c_video_anim_float_window_enter</item>
+        <item name="android:windowExitAnimation">@anim/c_video_anim_float_window_exit</item>
+    </style>
+
+    <style name="c_video_adIcon">
+        <item name="android:padding">6dp</item>
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@drawable/dkplayer_shape_back_bg</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+    <style name="c_video_adText">
+        <item name="android:background">@drawable/c_video_shape_ad_bg</item>
+        <item name="android:textSize">@dimen/c_video_controller_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

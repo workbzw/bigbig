@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c_video_colorPrimary">#39C5BB</color>
+    <color name="c_video_colorPrimaryDark">#32ada3</color>
+    <color name="c_video_colorAccent">#39C5BB</color>
+    <color name="c_video_theme_color">#39C5BB</color>
+    <color name="c_video_player_theme_color_translucent">#9939C5BB</color>
+    <color name="c_video_player_background_color">#96000000</color>
+</resources>

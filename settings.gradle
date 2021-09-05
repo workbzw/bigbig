@@ -1,2 +1,6 @@
 include ':app'
+include ':c_ad'
+include ':c_account'
+include ':c_video'
+include ':base'
 rootProject.name = "AppApplication"
